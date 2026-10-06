@@ -20,4 +20,4 @@ async def hava(ctx):
     await ctx.send(response.text)
 
 
-bot.run("MTUzMTcwMTc2MDkyMDM5MTY5MA.G-e_A_.-MhyfzIOwlhFtd2jPrCWo8LqpxV1dYbGR5r3eE")
+bot.run("")
